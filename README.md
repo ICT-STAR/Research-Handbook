@@ -101,7 +101,7 @@
 
 - 想看完整原文：读 [`handbook.md`](./handbook.md)。
 - 想按主题查看：改 [`modules/`](./modules/) 下对应模块。
-- 想要一个帮助你科研的skill：看看[]
+- 想要一个帮助你科研的skill：看看[research-assistant-skill](https://github.com/RickT34/research-assistant-skill)
 
 ## 模块目录
 
